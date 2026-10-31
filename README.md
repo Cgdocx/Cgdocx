@@ -18,7 +18,6 @@ Hands-on defensive lab notes: vulnerability verification, patch matrices, huntin
 |---|---|
 | [php2shell-lab-verification](https://github.com/Cgdocx/php2shell-lab-verification) | CVE-2026-109618 / CVE-2026-109619: patch verification, interim mitigation, hunt one-liners, 24h ops checklist |
 | [studyisc2](https://github.com/Cgdocx/studyisc2) | ISC2 CC study portal (TH/EN): quizzes, lessons, flashcards |
-| [flyff-web](https://github.com/Cgdocx/flyff-web) | FlyFF HTML5/WebGL client and WebSocket gateway |
 
 ## Writing
 
