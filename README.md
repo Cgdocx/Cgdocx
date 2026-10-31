@@ -45,9 +45,9 @@ More on [Medium @mqtsquad420](https://medium.com/@mqtsquad420).
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cgdocx&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Cgdocx GitHub stats](https://github-readme-stats.vercel.app/api?username=Cgdocx&hide_border=true&show_icons=true&bg_color=151515&title_color=2f81f7&icon_color=2f81f7&text_bold=false&text_color=9e9e9e&include_all_commits=true&count_private=true)
+![Cgdocx GitHub stats](https://github-stats-extended.vercel.app/api?username=Cgdocx&hide_border=true&show_icons=true&bg_color=151515&title_color=2f81f7&icon_color=2f81f7&text_bold=false&text_color=9e9e9e&include_all_commits=true&count_private=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cgdocx&layout=compact&hide_border=true&bg_color=151515&title_color=2f81f7&text_color=9e9e9e)
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Cgdocx&layout=compact&hide_border=true&bg_color=151515&title_color=2f81f7&text_color=9e9e9e)
 
 ### Connect
 
